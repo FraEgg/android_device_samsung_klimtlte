@@ -170,7 +170,7 @@
         <ctl name="AIF2TX2 Input 1" value="ASRC1R" />
         <ctl name="IN1L Volume" value="24" />
         <ctl name="IN1L Digital Volume" value="128" />
-        <ctl name="LHPF1 Input 1 Volume" value="32" />
+        <ctl name="LHPF1 Input 1 Volume" value="48" />
     </path>
 
     <path name="second-mic">
@@ -182,7 +182,7 @@
         <ctl name="AIF2TX2 Input 1" value="ASRC1R" />
         <ctl name="IN2L Volume" value="29" />
         <ctl name="IN2L Digital Volume" value="128" />
-        <ctl name="LHPF2 Input 1 Volume" value="32" />
+        <ctl name="LHPF2 Input 1 Volume" value="48" />
    </path>
 
    <path name="headset-mic">
@@ -232,8 +232,8 @@
         <path name="verb-normal" />
         <ctl name="SPK Switch" value="1" />
         <ctl name="Speaker Digital Volume" value="125" />
-        <ctl name="SPKOUTL Input 1 Volume" value="61" />
-        <ctl name="SPKOUTR Input 1 Volume" value="60" />
+        <ctl name="SPKOUTL Input 1 Volume" value="40" />
+        <ctl name="SPKOUTR Input 1 Volume" value="40" />
     </path>
 
     <path name="headphones">
@@ -341,7 +341,7 @@
         <path name="main-mic" />
         <ctl name="IN1L Volume" value="24" />
         <ctl name="IN1L Digital Volume" value="128" />
-        <ctl name="LHPF1 Input 1 Volume" value="32" />
+        <ctl name="LHPF1 Input 1 Volume" value="48" />
     </path>
 
     <!-- Two mic -->
@@ -365,12 +365,12 @@
         <path name="main-mic" />
         <ctl name="IN1L Volume" value="24" />
         <ctl name="IN1L Digital Volume" value="150" />
-        <ctl name="LHPF1 Input 1 Volume" value="32" />
+        <ctl name="LHPF1 Input 1 Volume" value="48" />
 
         <path name="second-mic" />
         <ctl name="IN2L Volume" value="29" />
         <ctl name="IN2L Digital Volume" value="128" />
-        <ctl name="LHPF2 Input 1 Volume" value="32" />
+        <ctl name="LHPF2 Input 1 Volume" value="48" />
     </path>
 
     <path name="voice-speaker-mic-wb">
