@@ -15,6 +15,9 @@ $(call inherit-product, vendor/cm/config/telephony.mk)
 
 PRODUCT_NAME := lineage_klimtlte
 PRODUCT_DEVICE := klimtlte
+PRODUCT_BRAND := samsung
+PRODUCT_MANUFACTURER := samsung
+PRODUCT_MODEL := SM-T705
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_MODEL=SM-T705 \
